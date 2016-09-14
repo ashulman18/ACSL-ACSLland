@@ -14,3 +14,6 @@ given in alphabetical order. The information between each pair of adjacent citie
 For example, if two staff members from cities A and C (590 miles apart) need to meet with one staff member traveling 
 at 50 miles per hour and starting at 1 PM and the other traveling at 60 miles per hour but starting at 2:00 PM, 
 the 2 cars will meet in 5 hours and 55 minutes or “5:55”.
+
+To run this code use `javac ACSLland.java`"
+then `java ACSLland`
